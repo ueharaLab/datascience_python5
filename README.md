@@ -1,3 +1,1 @@
-## [講義ノート](array_list2dim.md)
-
-## [演習ワークシート](http://colab.research.google.com/github/ueharaLab/python9_list2dim/blob/main/array_list2dim.ipynb)
+## [講義ノート](http://colab.research.google.com/github/ueharaLab/datascience_python5/blob/main/array_list2dim.ipynb)
